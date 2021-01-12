@@ -10,6 +10,7 @@ rules:
 3) All other live cells die in the next generation. Similarly, all other dead cells stay dead.
 
 Really basic version of the Game of Life
+
 On input enter x/y ( including / )
 
 May need to set up IDE to emulate terminal in output console (to clear the screen)

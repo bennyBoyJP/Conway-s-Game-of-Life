@@ -1,4 +1,4 @@
-# Conway-s-Game-of-Life
+# Conway's Game of Life
 Conway's Game of Life - by John Horton Conway
 Python3 implementation 2020
 
